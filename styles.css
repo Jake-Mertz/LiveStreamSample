@@ -1,0 +1,34 @@
+body {
+padding: 0;
+margin: 0;
+}
+
+.container {
+  height: 100rem;
+  max-width: 1980px;
+  background-color: #E2E0E4;
+}
+
+.zinc-logo {
+  /* width: 100px; */
+  height: 70px;
+  padding: 3px 0px 2px 0px;
+}
+
+.logo-container {
+  background-color: #313646;
+  display: flex;
+  justify-content: center;
+}
+
+.line {
+  width: 100%;
+  height: 4px;
+  background-color: #DE921B;
+}
+
+.video-player {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+}
